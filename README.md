@@ -1,0 +1,2 @@
+# Alfreder
+My Alfred Plugin
